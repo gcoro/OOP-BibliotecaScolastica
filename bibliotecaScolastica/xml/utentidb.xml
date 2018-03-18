@@ -1,0 +1,44 @@
+<utenti>
+ <utente username="admin">
+  <password>admin</password>
+  <nome>Giulia</nome>
+  <cognome>Coro</cognome>
+  <tipoUtente>Amministratore</tipoUtente>
+ </utente>
+ <utente username="est">
+  <password>est</password>
+  <nome>Ambrogio</nome>
+  <cognome>Neri</cognome>
+  <tipoUtente>Esterno</tipoUtente>
+ </utente>
+ <utente username="stud">
+  <password>stud</password>
+  <nome>Lucia</nome>
+  <cognome>Alberti</cognome>
+  <tipoUtente>Studente</tipoUtente>
+ </utente>
+ <utente username="cont">
+  <password>cont</password>
+  <nome>Anna</nome>
+  <cognome>Nardo</cognome>
+  <tipoUtente>Contribuente</tipoUtente>
+ </utente>
+ <utente username="sun07">
+  <password>qwerty</password>
+  <nome>Mario</nome>
+  <cognome>Santorso</cognome>
+  <tipoUtente>Contribuente</tipoUtente>
+ </utente>
+ <utente username="anita">
+  <password>c1a0</password>
+  <nome>Anita</nome>
+  <cognome>Cimbro</cognome>
+  <tipoUtente>Studente</tipoUtente>
+ </utente>
+ <utente username="andythebest">
+  <password>12304585</password>
+  <nome>Andy</nome>
+  <cognome>Rossi</cognome>
+  <tipoUtente>Esterno</tipoUtente>
+ </utente>
+</utenti>

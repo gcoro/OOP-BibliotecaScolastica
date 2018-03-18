@@ -1,0 +1,164 @@
+<articoli>
+ <articolo tipologia="libronarrativa" id="LN001">
+  <titolo>Cent'anni di solitudine</titolo>
+  <anno>1967</anno>
+  <disponibilita>disponibile</disponibilita>
+  <autore>Gabriel Garcia Marquez</autore>
+  <casaEditrice>Oscar Mondadori</casaEditrice>
+  <pagine>392</pagine>
+  <linguaOriginale>Spagnolo</linguaOriginale>
+  <genere>Romanzo</genere>
+  <etaTarget>Adulti</etaTarget>
+ </articolo>
+ <articolo tipologia="libroscolastico" id="LS001">
+  <titolo>Appunti di programmazione ad oggetti</titolo>
+  <anno>2013</anno>
+  <disponibilita>in prestito</disponibilita>
+  <autore>Francesco Ranzato</autore>
+  <casaEditrice>Libreria Progetto</casaEditrice>
+  <pagine>317</pagine>
+  <materia>Programmazione</materia>
+  <edizione>2</edizione>
+ </articolo>
+ <articolo tipologia="cdmusicale" id="CD001">
+  <titolo>Grandi Concerti Per Piano: Nr 9 K271 Nr 12 K414</titolo>
+  <anno>2006</anno>
+  <disponibilita>disponibile</disponibilita>
+  <artista>Wolfgang Amadeus Mozart</artista>
+  <genere>Musica classica</genere>
+  <tracce>6</tracce>
+ </articolo>
+ <articolo tipologia="rivista" id="RV001">
+  <titolo>Le Scienze</titolo>
+  <anno>2017</anno>
+  <disponibilita>disponibile</disponibilita>
+  <numeroVolume>79</numeroVolume>
+  <periodicita>Mensile</periodicita>
+  <argomento>Scienze</argomento>
+  <pagine>120</pagine>
+ </articolo>
+ <articolo tipologia="libroscolastico" id="LS842">
+  <titolo>Storia della filosofia ellenica</titolo>
+  <anno>2016</anno>
+  <disponibilita>disponibile</disponibilita>
+  <autore>E. Spinelli</autore>
+  <casaEditrice>Carocci</casaEditrice>
+  <pagine>278</pagine>
+  <materia>Filosofia</materia>
+  <edizione>1</edizione>
+ </articolo>
+ <articolo tipologia="libronarrativa" id="LN222">
+  <titolo>Il sentiero dei nidi di ragno</titolo>
+  <anno>2014</anno>
+  <disponibilita>in prestito</disponibilita>
+  <autore>Italo Calvino</autore>
+  <casaEditrice>Mondadori</casaEditrice>
+  <pagine>219</pagine>
+  <linguaOriginale>Italiano</linguaOriginale>
+  <genere>Romanzo</genere>
+  <etaTarget>Adolescenti 14-16 anni</etaTarget>
+ </articolo>
+ <articolo tipologia="cdmusicale" id="CD134">
+  <titolo>Quintetto per piano ed archi</titolo>
+  <anno>2016</anno>
+  <disponibilita>disponibile</disponibilita>
+  <artista>Richter Sviatoslav</artista>
+  <genere>Musica strumentale</genere>
+  <tracce>1</tracce>
+ </articolo>
+ <articolo tipologia="cdmusicale" id="CD089">
+  <titolo>Faust</titolo>
+  <anno>2017</anno>
+  <disponibilita>disponibile</disponibilita>
+  <artista>Christian Carrara</artista>
+  <genere>Musica moderna d'intrattenimento</genere>
+  <tracce>21</tracce>
+ </articolo>
+ <articolo tipologia="cdmusicale" id="CD302">
+  <titolo>Fiabe sonore</titolo>
+  <anno>2001</anno>
+  <disponibilita>in prestito</disponibilita>
+  <artista>Vari</artista>
+  <genere>Audiolibro</genere>
+  <tracce>12</tracce>
+ </articolo>
+ <articolo tipologia="rivista" id="RV213">
+  <titolo>Le Scienze</titolo>
+  <anno>2014</anno>
+  <disponibilita>disponibile</disponibilita>
+  <numeroVolume>23</numeroVolume>
+  <periodicita>Mensile</periodicita>
+  <argomento>Scienza e cultura</argomento>
+  <pagine>50</pagine>
+ </articolo>
+ <articolo tipologia="rivista" id="RV214">
+  <titolo>Le Scienze</titolo>
+  <anno>2014</anno>
+  <disponibilita>in prestito</disponibilita>
+  <numeroVolume>24</numeroVolume>
+  <periodicita>Mensile</periodicita>
+  <argomento>Scienza</argomento>
+  <pagine>50</pagine>
+ </articolo>
+ <articolo tipologia="rivista" id="RV008">
+  <titolo>Focus Storia</titolo>
+  <anno>2016</anno>
+  <disponibilita>disponibile</disponibilita>
+  <numeroVolume>312</numeroVolume>
+  <periodicita>Bimensile</periodicita>
+  <argomento>Storia</argomento>
+  <pagine>100</pagine>
+ </articolo>
+ <articolo tipologia="rivista" id="RV245">
+  <titolo>Wired</titolo>
+  <anno>2016</anno>
+  <disponibilita>disponibile</disponibilita>
+  <numeroVolume>58</numeroVolume>
+  <periodicita>Mensile</periodicita>
+  <argomento>Tecnologia</argomento>
+  <pagine>88</pagine>
+ </articolo>
+ <articolo tipologia="libronarrativa" id="LN123">
+  <titolo>Il mio gattino</titolo>
+  <anno>2017</anno>
+  <disponibilita>in prestito</disponibilita>
+  <autore>Britta Teckentrup</autore>
+  <casaEditrice>Picarona Italia</casaEditrice>
+  <pagine>16</pagine>
+  <linguaOriginale>Tedesco</linguaOriginale>
+  <genere>Libro illustrato</genere>
+  <etaTarget>Bambini 6-10 anni</etaTarget>
+ </articolo>
+ <articolo tipologia="libronarrativa" id="LN545">
+  <titolo>L'elefante scomparso e altri racconti</titolo>
+  <anno>2014</anno>
+  <disponibilita>disponibile</disponibilita>
+  <autore>Murakami Haruki</autore>
+  <casaEditrice>Einaudi</casaEditrice>
+  <pagine>170</pagine>
+  <linguaOriginale>Giapponese</linguaOriginale>
+  <genere>Racconti</genere>
+  <etaTarget>Adolescenti 14-16 anni</etaTarget>
+ </articolo>
+ <articolo tipologia="libronarrativa" id="LN234">
+  <titolo>Il diario di Anna Frank</titolo>
+  <anno>1947</anno>
+  <disponibilita>in prestito</disponibilita>
+  <autore>Anna Frank</autore>
+  <casaEditrice>Feltrinelli</casaEditrice>
+  <pagine>300</pagine>
+  <linguaOriginale>Olandese</linguaOriginale>
+  <genere>Biografia</genere>
+  <etaTarget>Adolescenti 14-16 anni</etaTarget>
+ </articolo>
+ <articolo tipologia="libroscolastico" id="LS234">
+  <titolo>Introduzione agli algoritmi e strutture dati</titolo>
+  <anno>2010</anno>
+  <disponibilita>disponibile</disponibilita>
+  <autore>Thomas Corner</autore>
+  <casaEditrice>McGraw</casaEditrice>
+  <pagine>700</pagine>
+  <materia>Programmazione</materia>
+  <edizione>3</edizione>
+ </articolo>
+</articoli>
