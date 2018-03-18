@@ -14,13 +14,7 @@ A more detailed explanation (in Italian) of the project and a user guide to the 
 
 ### Instructions
 
-Make sure you have the Qt library and qmake installed 
-
-```
-qmake -v
-```
- 
-Clone this repository and enter the project directory
+Make sure you have the Qt library and qmake installed, then clone this repository and enter the project directory
 
 ```
 git clone https://github.com/gcoro/OOP-BibliotecaScolastica.git
