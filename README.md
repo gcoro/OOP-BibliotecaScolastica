@@ -12,7 +12,7 @@ All the data get stored in a XML file, which can be overwritten at any time by t
 
 A more detailed explanation (in Italian) of the project and a user guide to the GUI can be found in the file _relazione.pdf_.
 
-### Instructions
+## Getting started
 
 Make sure you have the Qt library and qmake installed, then clone this repository and enter the project directory
 
